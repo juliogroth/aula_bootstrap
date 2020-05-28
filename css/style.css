@@ -1,0 +1,31 @@
+.navbar {
+    background-color: lightskyblue;
+    }
+
+.quem-somos{
+    background-color: rgb(78, 78, 215);
+    color: white;
+}
+
+.parceiros{
+    background-color: rgb(78, 78, 215, 0.7);
+    color: white;
+}
+
+.servicos{
+    background-color: rgb(78, 78, 250, 0.4);
+    color: white;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.colunas{
+    padding-top: 40px;
+}
+
+.rodape{
+    background-color: rgba(0, 0, 139, 0.5);
+    color:wheat
+}
